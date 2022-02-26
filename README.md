@@ -1,9 +1,9 @@
 # 人机鼠标轨迹识别
 ## 模块分类
 * [数据处理模块](https://github.com/XiaoTang233/mouse-track-recognition/blob/main/ProcessData.java)
-* [特征提取模块](https://github.com/XiaoTang233/mouse-track-recognition)
-* [模型构建模块](https://github.com/XiaoTang233/mouse-track-recognition)
-* [测试模块](https://github.com/XiaoTang233/mouse-track-recognition)
+* [特征提取模块](https://github.com/XiaoTang233/mouse-track-recognition/blob/main/CatchFeature.java)
+* [模型构建模块](https://github.com/XiaoTang233/mouse-track-recognition/blob/main/CreateDecisionTree.java)
+* [测试模块](https://github.com/XiaoTang233/mouse-track-recognition/blob/main/main.java)
 
 ## 功能描述
 * 本系统可以对输入系统的大量鼠标轨迹采样信息进行分析，判断该轨迹是人为的还是机器生成的。主要可以应用在网站的登录等的用户身份验证功能上，以此阻挡一部分非真人的操作，保障网站的信息安全。
